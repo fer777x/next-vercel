@@ -28,7 +28,7 @@ export const Navbar = () => {
                 <Link> */}
                     {/* <Text color='white' h2>P</Text> */}
                 <Link href="/">
-                    <Text color='white' h3> Pokémon</Text>
+                    <Text color='white' h3> Pokémon!</Text>
                 </Link>
                 {/* </Link>
             </NextLink> */}
